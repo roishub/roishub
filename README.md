@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Docker, Terraform, CI/CD**
 
-- 📄 Know about my experiences [https://shorturl.at/Gnli7]
+- 📄 Know about my experiences [https://shorturl.at/HGJpY]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
