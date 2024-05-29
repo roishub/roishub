@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Docker, Terraform, CI/CD**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rois-thomas-051872264/overlay/1711866742672/single-media-viewer/?profileId=ACoAAEDpZL0Bjg_yslF3W6SjZI3PfHTHz8qoDRs](https://www.linkedin.com/in/rois-thomas-051872264/overlay/1711866742672/single-media-viewer/?profileId=ACoAAEDpZL0Bjg_yslF3W6SjZI3PfHTHz8qoDRs)
+- 📄 Know about my experiences [https://shorturl.at/Gnli7]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
