@@ -1,4 +1,4 @@
-[![MasterHead](https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif)]
+![MasterHead](https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif)
 <h1 align="center">Hi 👋, I'm Rois Thomas</h1>
 <h3 align="center">A passionate Cloud and DevOps Engineer</h3>
 
