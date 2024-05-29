@@ -1,7 +1,10 @@
+[![MasterHead](https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif)]
 <h1 align="center">Hi 👋, I'm Rois Thomas</h1>
 <h3 align="center">A passionate Cloud and DevOps Engineer</h3>
 
-- 🔭 I’m currently working on **Deploying 3-tier web application on AWS EKS**
+<img align="right" alt="Coding" width="400" src="https://www.syncrogest.it/assets/website/img/smart-working-2.gif">
+
+- 🔭 I’m currently working on **DevOps & Cloud Projects**
 
 - 🌱 I’m currently learning **Ansible, Kubernetes**
 
