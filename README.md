@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **DevOps & Cloud Projects**
 
-- 🌱 I’m currently learning **Ansible, Kubernetes**
+- 🌱 Interested to learn more about **Cloud and Kubernetes**
 
 - 💬 Ask me about **Docker, Terraform, CI/CD**
 
